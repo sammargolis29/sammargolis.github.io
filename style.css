@@ -1,0 +1,194 @@
+body {
+  font-family: 'Garamond', serif;
+}
+h1{
+  text-align: center;
+}
+iframe{
+  text-align: center;
+}
+
+#logo {
+  width: 100%;
+  margin-right: auto;
+  text-align: center;
+  display: block;
+}
+
+#logotwo {
+  height: 20%;
+  width: 20%;
+  float: right;
+}
+
+#icons {
+  color: #939393;
+  float: right;
+  margin-top: 5%;
+  margin-right: -15%;
+  letter-spacing: .7em;
+}
+#icons a{
+  color: #939393;
+
+}
+#home .navbar a{
+  color: #000000;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+ #home .navbar a:hover{
+  font-weight: bold;
+  color: #DAD8D8;
+
+}
+#home .navbar{
+  margin: auto;
+  margin-bottom: 7%;
+}
+#home .navbar ul{
+  margin: auto;
+}
+hr{
+  width: 90%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: #000000;
+  border-color: #000000;
+}
+#bio-photo{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  width: 65%;
+}
+#bio{
+  text-align: left;
+  font-family: 'Garamond', serif;
+  font-size: 1.2em;
+  display: block;
+  margin-top: 6em;
+}
+.thumbnail {
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#portfolio-header{
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 3em;
+}
+
+#lines{
+  margin-top: -3%;
+}
+
+#portfolio-nav{
+  float: right;
+  color: #000000;
+
+}
+
+#portfolio-nav .navbar li{
+  float: right;
+  color: #000000;
+}
+
+#portfolio-nav .navbar a{
+  float: right;
+  color: #000000;
+}
+
+#portfolio-nav .navbar ul{
+  float: right;
+  color: #000000;
+}
+
+#portfolio-nav .navbar a:hover{
+ font-weight: bold;
+ color: #DAD8D8;
+
+}
+
+#resume-nav{
+  float: right;
+  color: #000000;
+}
+
+#resume-nav .navbar li{
+  float: right;
+  color: #000000;
+}
+
+#resume-nav .navbar a{
+  float: right;
+  color: #000000;
+}
+
+#resume-nav .navbar ul{
+  float: right;
+  color: #000000;
+}
+
+#resume-nav .navbar a:hover{
+ font-weight: bold;
+ color: #DAD8D8;
+
+}
+
+#edu-header{
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  margin-top: 37%;
+}
+
+#emp-header{
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  margin-top: 20%;
+}
+#ec-header{
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  margin-top: 40%;
+}
+#lead-header{
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  margin-top: 60%;
+}
+
+#skill-header{
+  font-family: 'Gill Sans', sans-serif;
+  font-size: 2.5em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  margin-top: 30%;
+}
+
+.portfolio-text{
+  margin-top: 10%;
+}
